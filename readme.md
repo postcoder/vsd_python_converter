@@ -5,9 +5,9 @@ open-office или libre-office.
 
 python3 converter.py -f=pdf -i=in_dir -o=out_dir
 
-Если запустить скрипт без аргументов, то будут применены аргументы по умолчанию:
+##Если запустить скрипт без аргументов, то будут применены аргументы по умолчанию:
 
-f = pdf
-in_dir = in
-out_dir = out
+* f = pdf
+* in_dir = in
+* out_dir = out
 
