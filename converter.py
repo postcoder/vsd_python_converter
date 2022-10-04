@@ -46,7 +46,6 @@ def get_script_args() -> Dict:
     return {'conv_format': conv_format, 'in_path': in_path, 'out_path': out_path}
 
 
-
 def files_convert(format: str, in_dir: str, out_dir: str) -> None:
     ''' Конвертирование файлов'''
 
